@@ -39,26 +39,6 @@ Stále mám zimomriavky, keď študent povie: *"Aha! Už to chápem."*
 
 📁 Repozitáre pre Git-based dokumentáciu:
 
-- [`docs-md-demo`](https://github.com/GitDocs-Lab/docs-md-demo) – Základné README + Markdown  
-
--
-- [`docs-pages-demo-Sites`](https://gitdocs-lab.github.io/docs-sites-demo/) – GitHub Sites
-- 
-- [`docs-mkdocs-demo`](https://github.com/GitDocs-Lab/docs-mkdocs-demo) – MkDocs s podporou viacerých jazykov
-- [`docs-mkdocs-demo-Sites`](https://gitdocs-lab.github.io/docs-mkdocs-demo/sk/) – MkDocs s podporou viacerých jazykov
-
-- [`docs-docusaurus-demo`](https://github.com/GitDocs-Lab/docs-docusaurus-demo) – Docusaurus GitHub pages s podporou viacerých jazykov
-- [`docs-docusaurus-demo-Sites`](https://gitdocs-lab.github.io/docs-docusaurus-demo/) – Docusaurus Sites s podporou viacerých jazykov
-
-
-
-- [`docs-hugo-demo`](https://github.com/GitDocs-Lab/docs-hugo-demo) – Hugo GitHub Pages statická stránka
-- [`docs-hugo-demo`](https://gitdocs-lab.github.io/docs-hugo-demo/) – Hugo Sites statická stránka
-
-
-- 
--  
-- [`docs-mix-demo`](https://github.com/GitDocs-Lab/docs-mix-demo) – Hybridná šablóna pre kombinované publikovanie / pripravuje sa
 
 ---
 
