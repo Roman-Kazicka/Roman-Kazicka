@@ -40,7 +40,8 @@ Stále mám zimomriavky, keď študent povie: *"Aha! Už to chápem."*
 📁 Repozitáre pre Git-based dokumentáciu:
 
 - [`docs-md-demo`](https://github.com/GitDocs-Lab/docs-md-demo) – Základné README + Markdown  
-- [`docs-pages-demo`](https://github.com/GitDocs-Lab/docs-pages-demo) – GitHub Pages
+
+-
 - [`docs-pages-demo-Sites`](https://gitdocs-lab.github.io/docs-sites-demo/) – GitHub Sites
 - 
 - [`docs-mkdocs-demo`](https://github.com/GitDocs-Lab/docs-mkdocs-demo) – MkDocs s podporou viacerých jazykov
@@ -58,6 +59,18 @@ Stále mám zimomriavky, keď študent povie: *"Aha! Už to chápem."*
 - 
 -  
 - [`docs-mix-demo`](https://github.com/GitDocs-Lab/docs-mix-demo) – Hybridná šablóna pre kombinované publikovanie / pripravuje sa
+
+---
+
+| # | Method           | Repozitár                                                                   | Pages URL                                                                                                                | Popis                                        |
+| - | ---------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
+| 1 | **Markdown**     | [docs-md-demo](https://github.com/GitDocs-Lab/docs-md-demo)                 | ✖ *(bez Pages)*                                                                                                          | Čistý Markdown (README + odkazy), bez buildu |
+| 2 | **GitHub Pages** | [docs-sites-demo](https://github.com/GitDocs-Lab/docs-sites-demo)           | [https://gitdocs-lab.github.io/docs-sites-demo/](https://gitdocs-lab.github.io/docs-sites-demo/)                         | `docs/` priečinok + Pages aktivovaný         |
+| 3 | **MkDocs**       | [docs-mkdocs-demo](https://github.com/GitDocs-Lab/docs-mkdocs-demo)         | [https://gitdocs-lab.github.io/docs-mkdocs-demo/](https://gitdocs-lab.github.io/docs-mkdocs-demo/) *(ak buildnuté)*      | `mkdocs.yml` + buildnutý výstup              |
+| 4 | **Docusaurus**   | [docs-docusaurus-demo](https://github.com/GitDocs-Lab/docs-docusaurus-demo) | [https://gitdocs-lab.github.io/docs-docusaurus-demo/](https://gitdocs-lab.github.io/docs-docusaurus-demo/) *(po deploy)* | Viacjazyčný React-based dokumentátor         |
+| 5 | **Hugo**         | [docs-hugo-demo](https://github.com/GitDocs-Lab/docs-hugo-demo)             | [https://gitdocs-lab.github.io/docs-hugo-demo/](https://gitdocs-lab.github.io/docs-hugo-demo/) *(po deploy)*             | Ultra-rýchly web s peknými témami            |
+| 6 | **VitePress**    | [docs-vitepress-demo](https://github.com/GitDocs-Lab/docs-vitepress-demo)   | [https://gitdocs-lab.github.io/docs-vitepress-demo/](https://gitdocs-lab.github.io/docs-vitepress-demo/) *(po deploy)*   | Elegantný Vue-based dokumentačný generátor   |
+
 
 ---
 
