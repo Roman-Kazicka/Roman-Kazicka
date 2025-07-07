@@ -2,6 +2,36 @@
 
 📄 Dostupné jazyky: [🇬🇧 English](README.md)
 
+---
+# 👤 Roman Kazička – System Thinking in Practice
+
+> *"Každý krok na ceste učenia má význam. Spolu tvoríme mapu poznania."*
+
+---
+
+## 🌍 ČO to je?
+- Systematický prístup k učeniu, spolupráci a reflexii
+- Prepojenie techniky, vzdelávania a ľudského rozmeru
+- Príklady, šablóny a metodiky pre dokumentáciu, výuku a zdieľanie
+
+## ❓ PREČO to je?
+- Lebo verím, že *neexistuje neúspech* – len nové skúsenosti.
+- Lebo vedomé zrkadlenie je najlepší spôsob, ako rásť – osobne aj tímovo.
+- Lebo technológia bez kontextu nemá zmysel.
+
+## 🚀 AKO to používať?
+- Začni tu 👉 [`journey.md`](journey.md)
+- Pozri štruktúru SDLC 👉 [`sdlc.md`](sdlc.md) *(čoskoro)*
+- Použi šablóny, pozri repozitáre v GitDocs-Lab, alebo mi napíš.
+
+---
+
+![Banner – Journey](assets/journey.png)
+> *Obraz cesty: ja, moje roly, tím, zrkadlenie. Skúsenosť ako smerovník.*
+
+
+---
+
 👀 Fascinuje ma **systémové myslenie v IT** – nielen ako metóda, ale ako spôsob myslenia.  
 🌱 Momentálne prerábam svoj univerzitný predmet *„Systémové myslenie v IT“* tak, aby celý vyrastal z prostredia GitHubu – od koreňa po vetvu.  
 💞️ Zameriavam sa na tvorbu zmysluplných **systémov znalostí** – pre jednotlivcov, malé tímy aj veľké vízie.  
