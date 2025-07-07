@@ -1,64 +1,120 @@
 # 🧩 SDLC – Solution Development Life Cycle
 
-> Technický základ pre všetky metodiky, ktoré používam v praxi aj výuke.
+> Technický základ pre všetky metodiky, ktoré používam v praxi aj vo výuke.
 
 ---
 
-## 📌 1. O čom to je?
-### V-Model – zjednodušený priebeh vývoja (podľa TforTesting)
+## 📌 1. **O čom to je?**
 
-![V-Model – Happy Flow](assets/t4testing-v-model.png)
+Zjednodušený pohľad na vývoj riešenia pomocou tzv. **V-modelu**  
+[Inšpirované konceptom Testing-for-Testing](https://tfortesting.wordpress.com/2012/11/20/v-model-for-testing/)
 https://tfortesting.wordpress.com/2012/11/20/v-model-for-testing/
-Tento model ukazuje zrkadlovú štruktúru vývoja:
-- V ľavo: návrh riešenia
-- V pravo: jeho testovanie
-- V strede: návrh testovania výstupov 
-![V-Model – SDLC perspektíva](assets/sdlc-v-model-simple.png)
+<div style="text-align: center;">
+  <img src="assets/t4testing-v-model.png" alt="V-Model"
+       style="border: 1px solid #ccc; border-radius: 4px; padding: 4px; width: 600px;">
+</div>
 
----
 
-## 🔍 2. Prečo to je?
 
-* Aby sme sa na ceste, cestách nestratili. Pre každé riešenia si vytvoríme priestor, ktorý má jasnú štruktúru, ktoré pomáha zachytiť všetky typy informácií počas životného cyklu riešenia.
-* Môžeme pracovať na viacerých riešeniach súčasne, bez toho, aby sme sa stratili
-* Systematicky budujeme riešenia, bez ohľadu či pracujeme ako One man show, alebo v tímoch
-* Priebežne si budujeme znalostný systém
-  
+
+V-model zobrazuje **zrkadlovú štruktúru vývoja**:
+
+- Vľavo: návrhové fázy (od požiadaviek až po návrh modulov)
+- Vpravo: testovacie fázy (od jednotkového testovania po akceptáciu)
+- Dno „V“: fáza implementácie (kódovanie)
+
+
+
+<div style="text-align: center;">
+  <img src="assets/sdlc-v-model-simple.png" alt="V-Model-simple"
+       style="border: 1px solid #ccc; border-radius: 4px; padding: 4px; width: 600px;">
+</div>
+
+
+
+<div style="text-align: center;">
+
+ ## **Čo nie je otestované je nefunkčné**
+
  
-Kontext roly a výstupov – „Solution Lifecycle Management“
+</div>
 
-![Solution Lifecycle Overview](assets/SDLC-7-phases.png)
 
-Tu vidíme:
-- Zákazník ↔ Riešenie ↔ Tím
-- Každý blok reprezentuje konkrétnu rolu, fázu a zodpovednosti
-- Model je základom pre:
-  - šablóny dokumentácie
-  - výučbu
-  - tímové procesy
+
+ * Preto každý systémový výstup je nutné overiť, či spĺňa očakávania.
+
+
+<div style="text-align: center;">
+  <img src="assets/sdlc-v-model-sth.png" alt="V-Model-sth"
+       style="border: 1px solid #ccc; border-radius: 4px; padding: 4px; width: 600px;">
+</div>
+
+---
+
+## 🔍 2. **Prečo to je?**
+
+> Aby sme sa na ceste (a často vo viacerých paralelných cestách) nestratili.
+
+SDLC a jeho vizualizácie nám pomáhajú:
+
+- Vytvoriť pre každé riešenie jasne definovaný priestor
+- Udržať štruktúru pri spracovaní veľkého množstva informácií
+- Pracovať paralelne na viacerých riešeniach bez chaosu
+- Budovať konzistentne tímové aj individuálne riešenia
+- Priebežne tvoriť **znalostný systém**
 
 ---
 
-## 🧠 3. A čo s tým?
+## 🧭 3. **A čo s tým?**
 
-Použi modely ako:
-- 🧭 orientáciu v komplexných projektoch
-- 🛠️ nástroj pri výuke študentov alebo školení kolegov
-- 📐 rámec pre vlastné kurzy či konzultácie
+Vytvoril som niekoľko metodík na podporu rutinných aktivít počas SDLC, aby sa vytvoril vúčší priestor priestor pre kreativitu a vnímanie rôznych kontextov
+<div style="text-align: center;">
+
+ ### Moja vízia  
+  *"Zdieľam vedomosti, aby rástli všetci okolo mňa."*
+
+  </div>
+
+**Jedná sa o nasledovné metodiky:**
+    - Context Aware Approach
+      - Context Aware Systems
+      - Context Aware Solutions
+    - 7 Disciplines for Successful Solution
+    - SDLC - Keep overview over SDLC of your solution
+    - APV - Assets-Perspectives-Views - Keep order over Your assets
+    - Q12 - Twelve quadrants for starting Your business successfully
+    - Lean Canvas - Nine topics describing ypur new business 
+  
+  Tieto metodiky som implementoval do:
+  1. Modelovacieho nástroja Enterprise Architect (Sparxsystems technologies)
+  2. Github repository templates
+   
+Použi tieto modely ako:
+
+- 🧭 Orientáciu v komplexných projektoch
+- 🛠️ Nástroj vo výuke študentov alebo školení kolegov
+- 📐 Rámec pre vlastné kurzy, dokumentáciu alebo konzultácie
 
 ---
-## 🔍 3. Kontext roly a výstupov – „Solution Lifecycle Management“
 
-![Solution Lifecycle Overview](images/sdlc-context.png)
+## 🔍 4. **Kontext roly a výstupov – Solution Lifecycle Management**
 
-Tu vidíme:
-- Zákazník ↔ Riešenie ↔ Tím
-- Každý blok reprezentuje konkrétnu rolu, fázu a zodpovednosti
-- Model je základom pre:
-  - šablóny dokumentácie
-  - výučbu
-  - tímové procesy
+
+<div style="text-align: center;">
+  <img src="assets/sdlc-complex.png" alt="V-Model-complex"
+       style="border: 1px solid #ccc; border-radius: 4px; padding: 4px; width: 600px;">
+</div>
+
+
+Tento model zobrazuje:
+
+- **Zákazník ↔ Riešenie ↔ Tím**: trojica, v ktorej sa pohybuje každé riešenie
+- Každý blok: fázu, rolu, zodpovednosti, výstupy
+- Význam pre:
+  - 📄 Šablóny a dokumentáciu
+  - 👨‍🏫 Výučbu a metodiku
+  - 🤝 Tímovú koordináciu a konzistentné doručovanie
 
 ---
----
-👉 Naspäť k príbehu: [`journey.md`](journey.md)
+
+👉 Späť k príbehu: [`journey.md`](journey.md)
