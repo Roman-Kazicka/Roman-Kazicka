@@ -21,7 +21,7 @@
 
 ## 🚀 AKO to používať?
 - Začni tu 👉 [`journey.md`](journey.md)
-- Pozri štruktúru SDLC 👉 [`sdlc.md`](sdlc.md) *(čoskoro)*
+- Pozri štruktúru SDLC 👉 [`sdlc.md`](sdlc.md) 
 - Použi šablóny, pozri repozitáre v GitDocs-Lab, alebo mi napíš.
 
 ---
