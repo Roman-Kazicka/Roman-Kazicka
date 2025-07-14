@@ -42,14 +42,16 @@ I still get goosebumps when a student says: *"Aha! Now I get it."*
 
 ---
 
-| # | Method           | Repository                                                                   | Pages URL                                                                                                                | Description                                  |
-| - | ---------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
-| 1 | **Markdown**     | [docs-md-demo](https://github.com/GitDocs-Lab/docs-md-demo)                 | ✖ *(no Pages)*                                                                                                           | Pure Markdown (README + links), no build     |
-| 2 | **GitHub Pages** | [docs-sites-demo](https://github.com/GitDocs-Lab/docs-sites-demo)           | [https://gitdocs-lab.github.io/docs-sites-demo/](https://gitdocs-lab.github.io/docs-sites-demo/)                         | `docs/` folder + Pages activated              |
-| 3 | **MkDocs**       | [docs-mkdocs-demo](https://github.com/GitDocs-Lab/docs-mkdocs-demo)         | [https://gitdocs-lab.github.io/docs-mkdocs-demo/](https://gitdocs-lab.github.io/docs-mkdocs-demo/) *(if built)*         | `mkdocs.yml` + generated output               |
-| 4 | **Docusaurus**   | [docs-docusaurus-demo](https://github.com/GitDocs-Lab/docs-docusaurus-demo) | [https://gitdocs-lab.github.io/docs-docusaurus-demo/](https://gitdocs-lab.github.io/docs-docusaurus-demo/) *(after deploy)* | Multilingual React-based documenter       |
-| 5 | **Hugo**         | [docs-hugo-demo](https://github.com/GitDocs-Lab/docs-hugo-demo)             | [https://gitdocs-lab.github.io/docs-hugo-demo/](https://gitdocs-lab.github.io/docs-hugo-demo/) *(after deploy)*          | Ultra-fast site with beautiful themes         |
-| 6 | **VitePress**    | [docs-vitepress-demo](https://github.com/GitDocs-Lab/docs-vitepress-demo)   | [https://gitdocs-lab.github.io/docs-vitepress-demo/](https://gitdocs-lab.github.io/docs-vitepress-demo/) *(after deploy)* | Elegant Vue-based documentation generator     |
+
+| # | Method           | Repozitár                                                                           | Pages URL                                                                                                                       | Popis                                        |
+| - | ---------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 1 | **Markdown**     | [docs-md-demo](https://github.com/GitDocs-Lab/docs-md-demo)                         | ✖ *(bez Pages)*                                                                                                               | Čistý Markdown (README + odkazy), bez buildu |
+| 2 | **GitHub Pages** | [docs-sites-demo](https://github.com/GitDocs-Lab/docs-sites-demo)                   | [https://gitdocs-lab.github.io/docs-sites-demo/](https://gitdocs-lab.github.io/docs-sites-demo/)                              | `docs/` priečinok + Pages aktivovaný         |
+| 3 | **MkDocs**       | [docs-mkdocs-demo](https://github.com/GitDocs-Lab/docs-mkdocs-demo)                 | [https://gitdocs-lab.github.io/docs-mkdocs-demo/](https://gitdocs-lab.github.io/docs-mkdocs-demo/) *(ak buildnuté)*           | `mkdocs.yml` + buildnutý výstup              |
+| 4 | **Docusaurus**   | [docs-docusaurus-demo](https://github.com/GitDocs-Lab/docs-docusaurus-demo)         | [https://gitdocs-lab.github.io/docs-docusaurus-demo/](https://gitdocs-lab.github.io/docs-docusaurus-demo/) *(po deploy)*      | Viacjazyčný React-based dokumentátor         |
+| 5 | **Hugo**         | [docs-hugo-demo](https://github.com/GitDocs-Lab/docs-hugo-demo)                     | [https://gitdocs-lab.github.io/docs-hugo-demo/](https://gitdocs-lab.github.io/docs-hugo-demo/) *(po deploy)*                 | Ultra-rýchly web s peknými témami            |
+| 6 | **Docsy (Hugo)** | [docs-hugo-docsy-example](https://github.com/GitDocs-Lab/docs-hugo-docsy-example)   | [https://gitdocs-lab.github.io/docs-hugo-docsy-example/](https://gitdocs-lab.github.io/docs-hugo-docsy-example/) *(po deploy)* | Technická dokumentácia s Hugo + Docsy témou |
+| 7 | **VitePress**    | [docs-vitepress-demo](https://github.com/GitDocs-Lab/docs-vitepress-demo)           | [https://gitdocs-lab.github.io/docs-vitepress-demo/](https://gitdocs-lab.github.io/docs-vitepress-demo/) *(po deploy)*        | Elegantný Vue-based dokumentačný generátor   |
 
 ---
 
